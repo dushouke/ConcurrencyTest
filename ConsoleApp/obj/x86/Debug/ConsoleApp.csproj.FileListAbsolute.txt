@@ -1,0 +1,5 @@
+G:\工作\ConcurrencyTest\ConsoleApp\bin\Debug\ConsoleApp.exe
+G:\工作\ConcurrencyTest\ConsoleApp\bin\Debug\ConsoleApp.pdb
+G:\工作\ConcurrencyTest\ConsoleApp\bin\Debug\Dapper.dll
+G:\工作\ConcurrencyTest\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+G:\工作\ConcurrencyTest\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb
